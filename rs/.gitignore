@@ -1,0 +1,9 @@
+# Wallet file
+*wallet.json
+
+# VSCode settings
+.vscode
+
+# Build files
+target
+cargo.lock

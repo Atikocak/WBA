@@ -1,0 +1,26 @@
+# WBA
+*wallet.json
+
+# Binaries for programs and tests
+**/target
+
+# Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Node.js dependencies, if applicable
+**/node_modules/
+
+
+# Logs
+*.log
+
+# Rust specific packages
+**/Cargo.lock
+*.rs.bk
+
+
+**/package-lock.json

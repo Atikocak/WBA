@@ -1,0 +1,9 @@
+# Wallet file
+*wallet.json
+
+# Modules
+node_modules
+
+# Build files
+package-lock.json
+yarn.lock
